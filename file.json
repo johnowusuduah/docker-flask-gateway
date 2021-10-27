@@ -1,1 +1,1 @@
-'{ "What is Machine Learning Engineering?": "Machine Learning engineering involves using the data you already have to make predictions. Machine learning engineers create systems so that computers can learn and make predictions on their own. This includes things like facial recognition software, recommendation engines, speech recognition, and more." }'
+'{ "name":"John", "age":30, "city":"New York"}'
